@@ -1,3 +1,5 @@
+<img src="YC2.jpg" alt="Profile Image">
+
 
 <h1 align="center">Hi 👋, I'm YASHNA CHUGH</h1>
 <h3 align="center">A passionate CYBER SECURITY Student from India</h3>
